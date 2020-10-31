@@ -1,0 +1,8 @@
+list1 = list(range(1,100))
+print(list1)
+print()
+print(type(list1))
+set1 = set(range(1,100))
+print(set1)
+print()
+print(type (set1))
