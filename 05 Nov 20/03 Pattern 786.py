@@ -5,4 +5,4 @@ for i in range (1, n+1):
             print("O", end=" ")
         else:
             print("X", end=" ")
-    print()
+    print();
